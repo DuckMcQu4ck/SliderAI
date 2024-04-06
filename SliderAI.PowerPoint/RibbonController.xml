@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load"
+		  loadImage="GetImage">
+	<ribbon>
+		<tabs>
+			<tab id="SliderAI" label="SliderAI">
+				<group id="General"
+					   label="General">
+					<button id='CheckBtn' label='Проверить' image='check_logo' onAction='Check' size='large'/>
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
+

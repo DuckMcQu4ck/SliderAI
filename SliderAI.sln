@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderAI.Excel", "SliderAI.Excel\SliderAI.Excel.csproj", "{B76F54A8-8256-4EC0-AE09-41744802CFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderAI.PowerPoint", "SliderAI.PowerPoint\SliderAI.PowerPoint.csproj", "{765906C1-88EE-43DD-9274-791D416E547D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SliderAI.Setup", "SliderAI.Setup\SliderAI.Setup.vdproj", "{3C002BE4-157F-4AA6-A70C-E977BB245CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76F54A8-8256-4EC0-AE09-41744802CFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76F54A8-8256-4EC0-AE09-41744802CFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76F54A8-8256-4EC0-AE09-41744802CFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76F54A8-8256-4EC0-AE09-41744802CFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765906C1-88EE-43DD-9274-791D416E547D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765906C1-88EE-43DD-9274-791D416E547D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765906C1-88EE-43DD-9274-791D416E547D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765906C1-88EE-43DD-9274-791D416E547D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C002BE4-157F-4AA6-A70C-E977BB245CBF}.Debug|Any CPU.ActiveCfg = Debug
+		{3C002BE4-157F-4AA6-A70C-E977BB245CBF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB5A0B8-B532-4F47-A94F-3E9C0E798799}
+	EndGlobalSection
+EndGlobal
